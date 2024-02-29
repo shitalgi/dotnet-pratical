@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\bin\Debug\BCA_Practical.exe.config
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\bin\Debug\BCA_Practical.exe
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\bin\Debug\BCA_Practical.pdb
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.Form1.resources
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.Pages.StudentAdd.resources
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.Pages.StudentForm.resources
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.Properties.Resources.resources
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.exe
+C:\Users\Acer\Desktop\bca_practical-master\bca_practical-master\BCA_Practical\obj\Debug\BCA_Practical.pdb
